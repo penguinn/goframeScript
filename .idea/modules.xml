@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../go-sdk/.idea/go-sdk.iml" filepath="$PROJECT_DIR$/../go-sdk/.idea/go-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../goframe/.idea/goframe.iml" filepath="$PROJECT_DIR$/../goframe/.idea/goframe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/goframeScript.iml" filepath="$PROJECT_DIR$/.idea/goframeScript.iml" />
+    </modules>
+  </component>
+</project>
